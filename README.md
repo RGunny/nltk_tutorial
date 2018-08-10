@@ -36,6 +36,7 @@
     scipy == 1.1.0
     gensim == 3.5.0
     tensorflow == 1.9.0
+    pywsd == 1.1.7
 
 
 
