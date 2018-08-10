@@ -55,15 +55,15 @@
 <small>모든 슬라이드는 slideshare 에 공유를 하였고, **linked in** 또는 **Facebook** 계정만 있으면 다운로드 가능합니다</small>
 
 
-[Step1 wordcloud 실습을 활용한 기본개념 익히기](https://www.slideshare.net/YBkim2/1-word-cloud-108912512)
+[Step1 wordcloud 실습을 활용한 기본개념 익히기](https://www.slideshare.net/YBkim2/1-word-cloud-109351857)
 
-[Step2 sentence 문장분석](https://www.slideshare.net/YBkim2/2-108677123)
+[Step2 sentence 문장분석](https://www.slideshare.net/YBkim2/2-sentence-109351896)
 
-[Step3 meaning 의미분석 / 베이지안 분류](https://www.slideshare.net/YBkim2/3-108677208)
+[Step3 meaning 의미분석 / 베이지안 분류](https://www.slideshare.net/YBkim2/3-109351943)
 
-[Step4 Doc2Vec / Word2Vec](https://www.slideshare.net/YBkim2/4-word2vec-doc2vec)
+[Step4 Doc2Vec / Word2Vec](https://www.slideshare.net/YBkim2/4-worddoc2vec)
 
-[Step5 RNN 딥러닝 활용](https://www.slideshare.net/YBkim2/5-rnn-lstm-seq2seq)
+[Step5 RNN 딥러닝 활용](https://www.slideshare.net/YBkim2/5-rnn)
 
 
 전체과정을 4개의 슬라이드로 분할 구성하였고, 각 각의 슬라이드는 순서에 따른 연계성을 갖으므로, 이해안되는 부분이 있으시다면 앞의 내용을 한번 더 복습한 뒤 진도를 나아가는 방식으로 진행하시면 도움이 될 것입니다.
