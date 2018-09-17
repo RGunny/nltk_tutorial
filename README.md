@@ -1,3 +1,16 @@
+# 파이썬을 활용한 자연어 분석 기초 
+
+
+## 강의목차
+
+1일차 - 1hour - **자연어 분석기초, Token과 정규식, Stemming/Tagging**
+1일차 - 2hour - **Konlpy, WordCloud(실습)**
+1일차 - 3hour - **StopWord, tf-idf, N-Gram(PMI)**
+
+2일차 - 1hour - **Naive Bayse Classification(실습)**
+2일차 - 1hour - **Word2Vec(실습), Doc2Vec**
+2일차 - 1hour - **LSTM(실습), Seq2Seq(실습)**
+
 
 ## NLTK 설치가 안되는 경우
 
